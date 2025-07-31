@@ -15,6 +15,8 @@ Create a .env file in the project directory and add: HUGGINGFACEHUB_API_TOKEN=yo
 
 Run the application with python app.py.
 
-# Semantic Evaluation Google collab link:  
+## Semantic Evaluation Google collab link:  
 https://colab.research.google.com/drive/1l8BMfhlFwZ1epH_9Rp1d2o-sqp91apzS?usp=sharing
 
+## Main File Google collab link:
+https://colab.research.google.com/drive/1LAcjrrEHQJAT1lP68PKhI3v9MNb65AXg?usp=sharing
